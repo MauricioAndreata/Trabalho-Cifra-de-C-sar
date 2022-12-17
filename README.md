@@ -1,3 +1,3 @@
 # Trabalho-Cifra-de-Cesar
 
-Trabalho para estudo da Criptografia na matéria de Matemática Discreta
+Trabalho para estudo da Criptografia é uma proposta de trabalho da matéria de Matemática Discreta no segundo semestre do curso de Engenharia de Computação, ministrado pela Universidade Federal de Uberlândia. Tem como objetivo compreender o básico sobre a criptografia, em especial a Cifra de César. Foram criadas as funções de criptografar ou decodificar um texto a partir de uma chave, que representa o número de letras a ser avançado ou avançadas no texto codificado. Além disso, foi desenvolvida a função de descriptografar um texto a partir do estudo da frequência de letras em textos da Língua Portuguesa, nessa função verifica-se a frequência de ocorrência de todas as letras de um texto decodificado qualquer e a compara com o texto codificado, podendo assim ser descoberto a chave para descriptografar o texto codificado.
